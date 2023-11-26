@@ -34,11 +34,11 @@ Program to design a half subtractor and full subtractor circuit and verify its t
 Developed by: PRIYADHARSHINI S
 RegisterNumber:  23003522
 1. Program to design a half subtractor:
-2. 
+
 ![hs code](https://github.com/priyadharshini225/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849213/9e0ad7d5-f0dd-4e7e-a098-dc233e95f1be)
 
 3. Program to design a full subtractor:
-4. 
+
 ![fs code](https://github.com/priyadharshini225/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849213/c8dae322-2d37-4376-982a-c09fb1ecaa2c)
 
 
